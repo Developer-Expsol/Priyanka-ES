@@ -1,0 +1,17 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Wednesday, June 19, 2024
+Project Path:       C:\Users\ES1\Priyanka\PCB-designs\DS\AstableF1\AstableF1.prj
+Design Path:        C:\Users\ES1\Priyanka\PCB-designs\DS\AstableF1\AstableF1.pcb
+Design Title:       
+Created:            19-06-2024 10:49:20
+Last Saved:         19-06-2024 18:13:34
+Editing Time:       456 min
+Units:              mm (precision 3)
+
+Changed component reference "C1" from component "C-EU025-025X050", package "C025-025X050" to component "C-EU050-025X075", package "C050-025X075".
+Changed component reference "C2" from component "C-EU025-025X050", package "C025-025X050" to component "C-EU050-025X075", package "C050-025X075".
+
+
+End Of Report.
