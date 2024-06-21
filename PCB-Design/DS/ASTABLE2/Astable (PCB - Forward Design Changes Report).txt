@@ -1,0 +1,17 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Tuesday, June 18, 2024
+Project Path:       C:\Users\ES1\Priyanka\PCB-designs\DS\ASTABLE2\Astable.prj
+Design Path:        C:\Users\ES1\Priyanka\PCB-designs\DS\ASTABLE2\Astable.pcb
+Design Title:       
+Created:            17-06-2024 15:32:07
+Last Saved:         18-06-2024 18:33:36
+Editing Time:       700 min
+Units:              mm (precision 3)
+
+Renamed component reference "P1" to "P1".
+
+
+
+End Of Report.
