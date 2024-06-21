@@ -1,0 +1,30 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Monday, June 17, 2024
+Project Path:       C:\Users\ES1\Priyanka\PCB-designs\DS\ASTABLE\Astable.prj
+Design Path:        C:\Users\ES1\Priyanka\PCB-designs\DS\ASTABLE\Astable.pcb
+Design Title:       
+Created:            17-06-2024 15:32:07
+Last Saved:         17-06-2024 17:54:45
+Editing Time:       153 min
+Units:              mm (precision 3)
+
+Disconnected pin "R5.2" from net "N0030".
+Disconnected pin "R6.A" from net "N0030".
+Disconnected pin "R6.E" from net "VCC".
+
+Deleted component reference "R6".
+
+Deleted net "N0030".
+
+Added net "N0033".
+
+Added component reference "R7" of component "TRIM_EU-RJ9W", package "RJ9W".
+
+Connected pin "R5.2" to net "N0033".
+Connected pin "R7.A" to net "N0033".
+Connected pin "R7.E" to net "VCC".
+
+
+End Of Report.

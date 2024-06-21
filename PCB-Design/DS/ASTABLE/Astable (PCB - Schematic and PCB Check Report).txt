@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Monday, June 17, 2024
+Project Path:       C:\Users\ES1\Priyanka\PCB-designs\DS\ASTABLE\Astable.prj
+Design Path:        C:\Users\ES1\Priyanka\PCB-designs\DS\ASTABLE\Astable.pcb
+Design Title:       
+Created:            17-06-2024 15:32:07
+Last Saved:         17-06-2024 17:54:45
+Editing Time:       153 min
+Units:              mm (precision 3)
+
+
+Checking integrity of Schematic and Pcb designs in project "Astable"
+====================================================================
+
+
+End Of Report.
