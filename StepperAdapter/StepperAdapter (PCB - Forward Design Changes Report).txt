@@ -1,0 +1,17 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Friday, June 21, 2024
+Project Path:       C:\Users\ES1\Priyanka\PCB-designs\DS\StepperAdapter\StepperAdapter.prj
+Design Path:        C:\Users\ES1\Priyanka\PCB-designs\DS\StepperAdapter\StepperAdapter.pcb
+Design Title:       
+Created:            21-06-2024 10:43:52
+Last Saved:         21-06-2024 11:01:00
+Editing Time:       18 min
+Units:              mm (precision 3)
+
+Added component reference "SV1" of component "MA08-1", package "MA08-1".
+Added component reference "SV2" of component "MA08-1", package "MA08-1".
+
+
+End Of Report.
